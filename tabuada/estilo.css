@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(146, 180, 219);
+    font: normal 15px Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background-color: white;
+    width: 420px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.342);
+
+
+}
+div#tab1{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 350px;
+    padding-left: 0px;
+}
+div#tab2{
+
+    padding-top: 0px;
+    padding-bottom: 10px;
+    width: 160px;
+    padding-left: 0px;
+
+
+
+footer{
+    text-align: center;
+
+}
